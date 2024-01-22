@@ -1,6 +1,6 @@
 # Tredansen Curtains Shortening Guide
 
-I dove into shortening the width of my Tredansen curtains with guidance from a Reddit post and a Medium article. After successfully shortening the first curtain, I did the same with the second, taking notes and photos along the way. Below, you can read these unedited notes and view the photos. Disclaimer: If you follow these steps, you are responsible for any potential damage to your curtains. This is simply a documentation of my process, not a recommendation.
+I dove into shortening the width of my Tredansen curtains with guidance from a [Reddit post](https://www.reddit.com/r/tradfri/comments/15hj3r2/ikea_tredansen_diy_guide_cut_complete_disassembly/) and a [Medium article](https://medium.com/@jared_1228/praktlysing-ikea-smart-blinds-cut-to-size-95d16a2315ef). After successfully shortening the first curtain, I did the same with the second, taking notes and photos along the way. Below, you can read these unedited notes and view the photos. Disclaimer: If you follow these steps, you are responsible for any potential damage to your curtains. This is simply a documentation of my process, not a recommendation.
 
 ## Disassembly Process
 1. Insert the battery.
