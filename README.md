@@ -57,7 +57,7 @@ I dove into shortening the width of my Tredansen curtains with guidance from a [
 <img src="img/15.jpg" />
 
 16. Optionally, you can also disconnect the ribbon cable entirely.
-17. Disassembling the two plastic rope spools, which are pressure fitted with a small plastic knob on top:
+17. Disassemble the two plastic rope spools, which are pressure fitted with a small plastic knob on top:
     - Get a piece of wood about 5cm wide that fits the assembly.
     <img src="img/17-1.jpg" />
     <img src="img/17-2.jpg" />
@@ -164,7 +164,7 @@ I dove into shortening the width of my Tredansen curtains with guidance from a [
     <img src="img/cut19-1.jpg" />
     <img src="img/cut19-2.jpg" />
     <img src="img/cut19-3.jpg" />
-    
+
     - Trim any excess rope, or tuck it into the bottom iron holder.
 20. Reattach the bottom iron holder, ensuring proper insertion of the second-to-last segment and the ropes.
 21. Attach the plastic end cap to the bottom part.
