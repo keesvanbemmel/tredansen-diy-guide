@@ -79,7 +79,7 @@ I dove into shortening the width of my Tredansen curtains with guidance from a [
 
 ## Shortening the width / cutting to size
 1. Leave the motor side as is. All shortening of the top assembly is done on the battery holder side.
-2. Measure the desired curtain length and subtract 11.2mm (accounting for the battery holder protrusion).
+2. Measure the desired curtain length and subtract 11.2cm (accounting for the battery holder protrusion).
 <img src="img/cut2.jpg" />
 
 3. Cut the top assembly on the battery holder side to the total width minus the protruding part of the battery holder. Use a metal band saw for easy cutting.
